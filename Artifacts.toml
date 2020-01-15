@@ -1,0 +1,9 @@
+[[MKL]]
+arch = "i686"
+git-tree-sha1 = "3f3eba387ab79b39ea79e1824fa8675d0e718dc2"
+lazy = true
+os = "windows"
+
+    [[MKL.download]]
+    sha256 = "d80b7660d45f53bd08e790a4c5f419de17e66d6552e287eda5a91a28755b3409"
+    url = "https://github.com/giordano/MKL/releases/download/MKL-v2019.0.117+1/MKL.v2019.0.117.i686-w64-mingw32.tar.gz"
